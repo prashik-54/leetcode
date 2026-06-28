@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prashik-54/leetcode/tree/master/0001-two-sum) |
+| [1796-second-largest-digit-in-a-string](https://github.com/prashik-54/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prashik-54/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## String
+|  |
+| ------- |
+| [1796-second-largest-digit-in-a-string](https://github.com/prashik-54/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 <!---LeetCode Topics End-->
