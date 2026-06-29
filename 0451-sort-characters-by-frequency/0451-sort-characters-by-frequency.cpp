@@ -1,5 +1,5 @@
 bool cmp(pair<char,int>p1,pair<char,int>p2){
-    if(p1.second>p2.second) return true;
+    if(p1.second>p2.second) return true; //desending sort by frequency
     return false;
 }
 class Solution {
