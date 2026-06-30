@@ -9,14 +9,16 @@ public:
 
         int g=gcd(len1,len2); //gretest common diviser
 
-        // //method 1 - easy
-        // return str1.substr(0,g);
+        //method 1 - easy
+        return str1.substr(0,g);
 
-       //method 2 
-        string ans="";
-        for(int i=0;i<g;i++){
-            ans+=str1[i];
-        }
-        return ans;
+    //    //method 2 
+    //     string ans="";
+    //     for(int i=0;i<g;i++){
+    //         ans+=str1[i];
+    //     }
+    //     return ans;
+
+    
     }
 };
