@@ -1,35 +1,20 @@
 class Solution {
 public:
     string mergeAlternately(string word1, string word2) {
-        int n=word1.size(); //word1 size
-        int m=word2.size(); //word2 size
+        std::string result = "";
+        int len1 = word1.length();
+        int len2 = word2.length();
+        int i = 0;
 
-        int idx1=0; //for word1
-        int idx2=0; //for word2
-        string ans="";
-        int i=0;
-        while(idx1 < n && idx2 < m){
-            if(i % 2 == 0){
-                ans+=word1[idx1];
-                idx1++;
+        while (i < len1 || i < len2) {
+            if (i < len1) {
+                result += word1[i];
             }
-            else{
-                ans+=word2[idx2];
-                idx2++;
+            if (i < len2) {
+                result += word2[i];
             }
             i++;
         }
-        //if word1 has remaining elements
-        while(idx1<n){
-            ans+=word1[idx1];
-            idx1++;
-        }
-        //if word2 has remaining elements
-        while(idx2<m){
-            ans+=word2[idx2];
-            idx2++;
-        }
-
-        return ans;
+        return result;
     }
 };
