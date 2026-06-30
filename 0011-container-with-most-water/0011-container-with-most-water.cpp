@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxArea(vector<int>& height) {
         int n=height.size();
-        int maxArea=0;
+        int maxArea=0; //maxwater
         int start=0;
         int end=n-1;
         while(start<end){
