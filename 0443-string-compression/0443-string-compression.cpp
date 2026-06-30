@@ -2,33 +2,34 @@ class Solution {
 public:
     int compress(vector<char>& chars) {
         int n = chars.size();
-        string str = "";
-        char prev = chars[0];
-        int count = 0;
-        for (int i = 0; i < n; i++) {
-            if (chars[i] == prev) {
+
+        int i = 0;
+        int index = 0;
+
+        while (i < n) {
+            char curr = chars[i];
+
+            int count = 0;
+            // Find count of duplicates
+            while (i < n && chars[i] == curr) {
+                i++;
                 count++;
-            } else { // char[i]!=previous element
-                if (count == 1) {
-                    str += prev;
-                } else { // count > 1
-                    string temp = to_string(count);
-                    str += prev;
-                    str += temp;
+            }
+
+            // Assign it to chars and move index ahead to add the count
+            chars[index] = curr;
+            index++;
+
+            // add the count
+            if (count > 1) {
+                string count_str = to_string(count);
+                for (char& ch : count_str) {
+                    chars[index] = ch;
+                    index++;
                 }
-                prev = chars[i];
-                count = 1;
             }
         }
-        str += prev;
-        if (count > 1) {
-            str += to_string(count);
-        }
 
-        chars.clear();
-        for (char ch : str) {
-            chars.push_back(ch);
-        }
-        return str.size();
+        return index;
     }
 };
