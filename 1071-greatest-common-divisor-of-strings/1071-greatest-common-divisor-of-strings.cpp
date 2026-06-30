@@ -8,11 +8,15 @@ public:
         int len2=str2.size();
 
         int g=gcd(len1,len2); //gretest common diviser
-        return str1.substr(0,g);
-        // string ans="";
-        // for(int i=0;i<idx;i++){
-        //     ans+=str1[i];
-        // }
-        // return ans;
+
+        // //method 1 - easy
+        // return str1.substr(0,g);
+
+       //method 2 
+        string ans="";
+        for(int i=0;i<g;i++){
+            ans+=str1[i];
+        }
+        return ans;
     }
 };
