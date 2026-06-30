@@ -17,11 +17,14 @@ public:
             if(isvowel(s[i])) vowel++;
         }
         maxVowel=vowel;
-
+        //sliding window
         for(int i=k;i<n;i++){
             if(isvowel(s[i])) vowel++;
             if(isvowel(s[i-k])) vowel--;
             maxVowel=max(maxVowel,vowel);
+            
+            //early stoping
+            if(maxVowel==k) return maxVowel;
         }
 
         return maxVowel;
