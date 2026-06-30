@@ -4,10 +4,10 @@ public:
         int n=s.size();
         int st=0;
         int end=n-1;
-        unordered_set<char> c ={'a','e','i','o','u'};
+        unordered_set<char> c ={'a','e','i','o','u','A','E','I','O','U'};
         while(st<end){
-            char ch1 = tolower(s[st]);
-            char ch2 = tolower(s[end]);
+            char ch1 = s[st];
+            char ch2 = s[end];
 
             if(c.find(ch1)==c.end()){
                 st++;
