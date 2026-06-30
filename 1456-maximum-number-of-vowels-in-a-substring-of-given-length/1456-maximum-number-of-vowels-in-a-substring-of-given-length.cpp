@@ -12,7 +12,7 @@ public:
 
         int maxVowel=0;
         int vowel=0;
-
+        //first window
         for(int i=0;i<k;i++){
             if(isvowel(s[i])) vowel++;
         }
