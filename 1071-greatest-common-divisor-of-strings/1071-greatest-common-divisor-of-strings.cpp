@@ -7,11 +7,12 @@ public:
         int len1=str1.size();
         int len2=str2.size();
 
-        string ans="";
-        int idx=gcd(len1,len2);
-        for(int i=0;i<idx;i++){
-            ans+=str1[i];
-        }
-        return ans;
+        int g=gcd(len1,len2); //gretest common diviser
+        return str1.substr(0,g);
+        // string ans="";
+        // for(int i=0;i<idx;i++){
+        //     ans+=str1[i];
+        // }
+        // return ans;
     }
 };
