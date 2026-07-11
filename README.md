@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/prashik-54/leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/prashik-54/leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/prashik-54/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prashik-54/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prashik-54/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prashik-54/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prashik-54/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/prashik-54/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/prashik-54/leetcode/tree/master/0735-asteroid-collision) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prashik-54/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/prashik-54/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
