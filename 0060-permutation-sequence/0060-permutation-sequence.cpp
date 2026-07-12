@@ -1,6 +1,9 @@
 class Solution {
 public:
-    string getPermutation(int n, int k) {
+    string getPermutation(int n, int k) { 
+        
+        //using inbuilt next permutation function (no recursion)
+
         vector<int>v;
         for(int i=0;i<n;i++){
             v.push_back(i+1);
