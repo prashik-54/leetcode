@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/prashik-54/leetcode/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/prashik-54/leetcode/tree/master/0060-permutation-sequence) |
 | [0507-perfect-number](https://github.com/prashik-54/leetcode/tree/master/0507-perfect-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/prashik-54/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prashik-54/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/prashik-54/leetcode/tree/master/0060-permutation-sequence) |
 | [0394-decode-string](https://github.com/prashik-54/leetcode/tree/master/0394-decode-string) |
 | [0779-k-th-symbol-in-grammar](https://github.com/prashik-54/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Enumeration
