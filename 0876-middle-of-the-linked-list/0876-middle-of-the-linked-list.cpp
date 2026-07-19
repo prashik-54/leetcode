@@ -11,6 +11,17 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
+
+        //m3 - fast and slow pointer - mostly asked in interview
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while(fast!=NULL && fast->next!=NULL){
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        return slow;
+
+
         // //m1
         // int size = 1;
         // ListNode* temp = head;
@@ -26,18 +37,18 @@ public:
         // }
         // return temp->next;
 
-        //m2
-        int len = 0;
-        ListNode* temp = head;
-        while(temp!=NULL){
-            len++;
-            temp = temp->next;
-        }
-        int middle = len/2;
-        temp = head;
-        for(int i=1; i<=middle; i++){
-            temp = temp->next;
-        }
-        return temp;
+        // //m2
+        // int len = 0;
+        // ListNode* temp = head;
+        // while(temp!=NULL){
+        //     len++;
+        //     temp = temp->next;
+        // }
+        // int middle = len/2;
+        // temp = head;
+        // for(int i=1; i<=middle; i++){
+        //     temp = temp->next;
+        // }
+        // return temp;
     }
 };
