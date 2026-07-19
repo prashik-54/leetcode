@@ -226,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/prashik-54/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prashik-54/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/prashik-54/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
