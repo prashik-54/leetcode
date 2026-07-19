@@ -17,11 +17,12 @@ public:
             size++;
             temp = temp->next;
         }
+        cout<<size<<" ";
         if(n==size){
             head = head->next;
             return head;
         }
-        n = size-n;
+        n = size-n; //nth index form staring 
         temp = head;
         for(int i=1;i<n;i++){
             temp = temp->next;
