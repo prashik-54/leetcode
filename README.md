@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prashik-54/leetcode/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/prashik-54/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/prashik-54/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/prashik-54/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/prashik-54/leetcode/tree/master/0735-asteroid-collision) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/prashik-54/leetcode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/prashik-54/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/prashik-54/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prashik-54/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/prashik-54/leetcode/tree/master/0257-binary-tree-paths) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/prashik-54/leetcode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/prashik-54/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/prashik-54/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prashik-54/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/prashik-54/leetcode/tree/master/0257-binary-tree-paths) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/prashik-54/leetcode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/prashik-54/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/prashik-54/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prashik-54/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/prashik-54/leetcode/tree/master/0257-binary-tree-paths) |
