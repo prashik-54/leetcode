@@ -10,19 +10,19 @@ public:
         // Base case: If there are 2 elements, they can form 2 unique configurations
         if(n == 2) return 2;
         
-        int temp;
+        int ans;
         int i = 0;
         
         // Find the smallest power of 2 that is strictly greater than n
-        while(n >= temp) { 
+        while(ans <= n) { 
             // Calculate 2 raised to the power of i (2^i)
-            temp = pow(2, i); 
+            ans = pow(2, i); 
             
             // Increment the exponent for the next iteration
             i++; 
         }
         
         // Return the calculated power of 2
-        return temp; 
+        return ans; 
     }
 };
