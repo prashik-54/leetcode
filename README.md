@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prashik-54/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/prashik-54/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/prashik-54/leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/prashik-54/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prashik-54/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prashik-54/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1925-count-square-sum-triples](https://github.com/prashik-54/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prashik-54/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/prashik-54/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prashik-54/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prashik-54/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prashik-54/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/prashik-54/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prashik-54/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/prashik-54/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Number Theory
 |  |
 | ------- |
