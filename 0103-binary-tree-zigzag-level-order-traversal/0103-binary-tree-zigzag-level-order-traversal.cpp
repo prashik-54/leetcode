@@ -15,23 +15,23 @@ public:
         if(root == NULL) return 0;
         return 1 + max(levels(root->left),levels(root->right));
     }
-    vector<int> leftOrder(TreeNode* root, int n, vector<int>&temp){
-        if(root==NULL) return temp; //no need to print
+    void leftOrder(TreeNode* root, int n, vector<int>&temp){
+        if(root==NULL) return; //no need to print
         if(n==1){
             temp.push_back(root->val);
         }
         leftOrder(root->left,n-1,temp); //left call
         leftOrder(root->right,n-1,temp); //right call
-        return temp;
+        // return temp;
     }
-    vector<int> rightOrder(TreeNode* root, int n, vector<int>&temp){
-        if(root==NULL) return temp ; //no need to print
+    void rightOrder(TreeNode* root, int n, vector<int>&temp){
+        if(root==NULL) return; //no need to print
         if(n==1){
             temp.push_back(root->val);
         }
         rightOrder(root->right,n-1,temp); //right call
         rightOrder(root->left,n-1,temp); //left call
-        return temp;
+        // return temp;
         
     }
     void traversal(TreeNode* root, int l, vector<vector<int>>&ans){
