@@ -19,6 +19,7 @@ public:
         if(root==NULL) return; //no need to print
         if(n==1){
             temp.push_back(root->val);
+            return;
         }
         leftOrder(root->left,n-1,temp); //left call
         leftOrder(root->right,n-1,temp); //right call
@@ -28,6 +29,7 @@ public:
         if(root==NULL) return; //no need to print
         if(n==1){
             temp.push_back(root->val);
+            return;
         }
         rightOrder(root->right,n-1,temp); //right call
         rightOrder(root->left,n-1,temp); //left call
