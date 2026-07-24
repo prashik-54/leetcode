@@ -6,7 +6,7 @@ public:
 
         unordered_set<int>pairXor;
         for(int i = 0; i<n ; i++){
-            for(int j = 0; j < n; j++){
+            for(int j = i; j < n; j++){
                 pairXor.insert(nums[i]^nums[j]);
             }
         }
