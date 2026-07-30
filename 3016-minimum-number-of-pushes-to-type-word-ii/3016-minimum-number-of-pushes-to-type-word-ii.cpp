@@ -5,7 +5,6 @@ public:
 
         unordered_map<char , int > freq; //char and its frequency
 
-        
         for(auto ch : word){
             freq[ch]++;
         }
