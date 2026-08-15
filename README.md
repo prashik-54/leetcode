@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/prashik-54/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/prashik-54/leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/prashik-54/leetcode/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/prashik-54/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/prashik-54/leetcode/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/prashik-54/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prashik-54/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/prashik-54/leetcode/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/prashik-54/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prashik-54/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/prashik-54/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/prashik-54/leetcode/tree/master/1004-max-consecutive-ones-iii) |
