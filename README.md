@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/prashik-54/leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/prashik-54/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prashik-54/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/prashik-54/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/prashik-54/leetcode/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/prashik-54/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prashik-54/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prashik-54/leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/prashik-54/leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prashik-54/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/prashik-54/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prashik-54/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/prashik-54/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/prashik-54/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prashik-54/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/prashik-54/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/prashik-54/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prashik-54/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/prashik-54/leetcode/tree/master/0151-reverse-words-in-a-string) |
