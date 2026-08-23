@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prashik-54/leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/prashik-54/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/prashik-54/leetcode/tree/master/0039-combination-sum) |
+| [0066-plus-one](https://github.com/prashik-54/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/prashik-54/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prashik-54/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/prashik-54/leetcode/tree/master/0088-merge-sorted-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/prashik-54/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/prashik-54/leetcode/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/prashik-54/leetcode/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/prashik-54/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/prashik-54/leetcode/tree/master/0069-sqrtx) |
 | [0507-perfect-number](https://github.com/prashik-54/leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prashik-54/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
