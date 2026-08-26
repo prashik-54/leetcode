@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prashik-54/leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/prashik-54/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/prashik-54/leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/prashik-54/leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/prashik-54/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/prashik-54/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prashik-54/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prashik-54/leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/prashik-54/leetcode/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/prashik-54/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/prashik-54/leetcode/tree/master/0392-is-subsequence) |
 ## Bucket Sort
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/prashik-54/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/prashik-54/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prashik-54/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/prashik-54/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/prashik-54/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/prashik-54/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prashik-54/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prashik-54/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/prashik-54/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/prashik-54/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prashik-54/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prashik-54/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prashik-54/leetcode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/prashik-54/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prashik-54/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Linked List
