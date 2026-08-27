@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/prashik-54/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prashik-54/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prashik-54/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/prashik-54/leetcode/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/prashik-54/leetcode/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prashik-54/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/prashik-54/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/prashik-54/leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/prashik-54/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/prashik-54/leetcode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/prashik-54/leetcode/tree/master/0202-happy-number) |
 | [0507-perfect-number](https://github.com/prashik-54/leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prashik-54/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/prashik-54/leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/prashik-54/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prashik-54/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prashik-54/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/prashik-54/leetcode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prashik-54/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/prashik-54/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/prashik-54/leetcode/tree/master/0443-string-compression) |
@@ -407,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/prashik-54/leetcode/tree/master/0069-sqrtx) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/prashik-54/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
