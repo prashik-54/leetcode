@@ -15,12 +15,8 @@ public:
         if(allEven || allOdd) return true;
 
         int minOdd = INT_MAX;
-        int minEven = INT_MAX;
         for(int i = 0; i<n ;i++){
-            if(nums1[i]%2==0){
-                minEven = min(minEven , nums1[i]);
-            }
-            else{
+            if(nums1[i]%2!=0){
                 minOdd = min(minOdd , nums1[i]);
             }
         }
