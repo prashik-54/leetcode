@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/prashik-54/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prashik-54/leetcode/tree/master/0090-subsets-ii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/prashik-54/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/prashik-54/leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prashik-54/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/prashik-54/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/prashik-54/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
