@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/prashik-54/leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/prashik-54/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/prashik-54/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/prashik-54/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/prashik-54/leetcode/tree/master/0392-is-subsequence) |
 ## Bucket Sort
 |  |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/prashik-54/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prashik-54/leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/prashik-54/leetcode/tree/master/0137-single-number-ii) |
+| [0338-counting-bits](https://github.com/prashik-54/leetcode/tree/master/0338-counting-bits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/prashik-54/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/prashik-54/leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prashik-54/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
