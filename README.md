@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/prashik-54/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/prashik-54/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/prashik-54/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prashik-54/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prashik-54/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/prashik-54/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prashik-54/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/prashik-54/leetcode/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/prashik-54/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/prashik-54/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prashik-54/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prashik-54/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/prashik-54/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prashik-54/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/prashik-54/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/prashik-54/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prashik-54/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/prashik-54/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prashik-54/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/prashik-54/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/prashik-54/leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prashik-54/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prashik-54/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/prashik-54/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/prashik-54/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
