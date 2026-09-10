@@ -1,6 +1,10 @@
 class Solution {
 public:
+    //we can allso use built in bits count to count no of 1s
+    //cpp -> __builtin_popcount(num);
+    //java -> Integer.bitcount(num);
     int countbits(int num){
+        //return __builtin_popcount(num);
         int count = 0;
         while(num != 0){
             count += num & 1;
