@@ -13,7 +13,7 @@ public:
             temp /= 10;
             int b = temp%10; //2nd digit
             temp /= 10;
-            int c = temp%10; //3rd digit
+            int c = temp; //3rd digit
 
             if(freq[a]>0){
                 freq[a]--;
