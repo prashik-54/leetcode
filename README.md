@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prashik-54/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prashik-54/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prashik-54/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prashik-54/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prashik-54/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prashik-54/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/prashik-54/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/prashik-54/leetcode/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prashik-54/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prashik-54/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prashik-54/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/prashik-54/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
@@ -491,4 +493,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/prashik-54/leetcode/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prashik-54/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
