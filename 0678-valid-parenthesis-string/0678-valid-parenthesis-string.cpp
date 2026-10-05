@@ -2,42 +2,30 @@ class Solution {
 public:
     bool checkValidString(string s) {
         int n = s.size();
+        int open = 0;
+        int close = 0;
 
-        //stack will store the index
-        stack<int>open;
-        stack<int>star;
-
-        for(int i = 0; i < n; i++){
-            if(s[i] == '('){
-                open.push(i);
+        for(int i = 0; i<n; i++){
+            if(s[i] == '(' || s[i] == '*'){
+                open++;
             }
-            else if(s[i] == '*'){
-                star.push(i);
+            else{
+                open--;
             }
-            else{ //s[i] == ')'
-                if(!open.empty()){
-                    open.pop();
-                }
-                else if(!star.empty()){
-                    star.pop();
-                }
-                else{
-                    return false;
-                }
-            }
-        }
-        while(!open.empty() && !star.empty()){
-            if(open.top() > star.top()){
-                return false;
-            }
-            open.pop();
-            star.pop();
+            if(open < 0) return false;
         }
 
-        if(open.empty()){
-            return true;
+        for(int i = n-1; i>=0; i--){
+            if(s[i] == ')' || s[i] == '*'){
+                close++;
+            }
+            else{
+                close--;
+            }
+
+            if(close < 0) return false;
         }
 
-        return false;
+        return true;
     }
 };
