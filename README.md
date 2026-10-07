@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/prashik-54/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/prashik-54/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/prashik-54/leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/prashik-54/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/prashik-54/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/prashik-54/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prashik-54/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/prashik-54/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/prashik-54/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/prashik-54/leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/prashik-54/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/prashik-54/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/prashik-54/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/prashik-54/leetcode/tree/master/0338-counting-bits) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prashik-54/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/prashik-54/leetcode/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/prashik-54/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/prashik-54/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/prashik-54/leetcode/tree/master/0605-can-place-flowers) |
