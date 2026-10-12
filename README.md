@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/prashik-54/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/prashik-54/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/prashik-54/leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/prashik-54/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/prashik-54/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prashik-54/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prashik-54/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/prashik-54/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prashik-54/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/prashik-54/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/prashik-54/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prashik-54/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prashik-54/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prashik-54/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/prashik-54/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prashik-54/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/prashik-54/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/prashik-54/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prashik-54/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
