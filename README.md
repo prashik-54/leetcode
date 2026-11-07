@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/prashik-54/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/prashik-54/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prashik-54/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prashik-54/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prashik-54/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/prashik-54/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prashik-54/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/prashik-54/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/prashik-54/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prashik-54/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prashik-54/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prashik-54/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/prashik-54/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prashik-54/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/prashik-54/leetcode/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/prashik-54/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/prashik-54/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prashik-54/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prashik-54/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/prashik-54/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prashik-54/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prashik-54/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/prashik-54/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/prashik-54/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prashik-54/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prashik-54/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prashik-54/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/prashik-54/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
